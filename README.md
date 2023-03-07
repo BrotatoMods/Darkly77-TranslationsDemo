@@ -19,7 +19,7 @@ Make sure you check the output log when you add your CSV. It will tell you if th
 
 ## Resources
 
-To make your own translation mod, get the CSV from here:
+To make your own translation mod, get the CSV from the "extras" folder, or download it from here:
 
 - https://drive.google.com/drive/u/5/folders/1xrfXrL4a-o721PRfxNmAAtHwgjxXElSx
 
