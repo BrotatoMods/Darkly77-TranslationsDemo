@@ -21,6 +21,6 @@ func _d77_transdemo_add_languages() -> void:
 	languages["pirate"]   = "en_PH" # Pirate
 	languages["lolcat"]   = "en_IL" # Lolcat
 
-	ModLoaderUtils.log_info("Installed custom language: Poorly Translated", D77_TRANSDEMO_MODID)
-	ModLoaderUtils.log_info("Installed custom language: Pirate", D77_TRANSDEMO_MODID)
-	ModLoaderUtils.log_info("Installed custom language: Lolcat", D77_TRANSDEMO_MODID)
+	ModLoaderLog.info("Installed custom language: Poorly Translated", D77_TRANSDEMO_MODID)
+	ModLoaderLog.info("Installed custom language: Pirate", D77_TRANSDEMO_MODID)
+	ModLoaderLog.info("Installed custom language: Lolcat", D77_TRANSDEMO_MODID)
